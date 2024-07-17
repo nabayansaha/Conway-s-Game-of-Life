@@ -30,7 +30,7 @@ Conway's Game of Life is a zero-player game that demonstrates how complexity can
 To run the Game of Life, you will need:
 
 - Python 3.x
-- Libraries: `numpy`, `matplotlib` (if visualization is implemented with these libraries)
+- Libraries: `numpy`, `matplotlib`, `seaborn` 
 
 ### Installation
 
