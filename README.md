@@ -48,10 +48,7 @@ To run the Game of Life, you will need:
 ### Usage
 
 1. Set the initial configuration of cells.
-2. Run the simulation:
-    ```sh
-    python game_of_life.py
-    ```
+2. Run the cells.
 3. Observe the evolution of the grid.
 
 ## Contributing
